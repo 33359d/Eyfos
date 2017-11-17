@@ -1,0 +1,13 @@
+.a1{
+    background-image: url(header.jpg);
+    height: 650px;
+    background-size: 100% 100%;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif
+}
+.a2{
+    font-size: 14px;
+    font-family: sans-serif;
+}
